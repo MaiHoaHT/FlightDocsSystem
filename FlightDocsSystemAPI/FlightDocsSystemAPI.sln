@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightDocsSystemAPI", "FlightDocsSystemAPI\FlightDocsSystemAPI.csproj", "{10D28218-5A83-4938-8F4F-DDDF21A947DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10D28218-5A83-4938-8F4F-DDDF21A947DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D28218-5A83-4938-8F4F-DDDF21A947DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D28218-5A83-4938-8F4F-DDDF21A947DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D28218-5A83-4938-8F4F-DDDF21A947DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2774D3F7-1714-4A87-9DF5-E2B0D09197EF}
+	EndGlobalSection
+EndGlobal
