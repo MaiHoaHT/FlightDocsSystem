@@ -433,9 +433,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\INTERN\\ALTA SOFTWARE\\Week2\\FlightDocsSystem\\FlightDocsSystemAPI\\AuthenticationService\\AuthenticationService.csproj",
-      "projectName": "AuthenticationService",
-      "projectPath": "D:\\INTERN\\ALTA SOFTWARE\\Week2\\FlightDocsSystem\\FlightDocsSystemAPI\\AuthenticationService\\AuthenticationService.csproj",
+      "projectUniqueName": "D:\\INTERN\\ALTA SOFTWARE\\Week2\\FlightDocsSystem\\FlightDocsSystemAPI\\AuthenticationService\\UserService.csproj",
+      "projectName": "UserService",
+      "projectPath": "D:\\INTERN\\ALTA SOFTWARE\\Week2\\FlightDocsSystem\\FlightDocsSystemAPI\\AuthenticationService\\UserService.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
       "outputPath": "D:\\INTERN\\ALTA SOFTWARE\\Week2\\FlightDocsSystem\\FlightDocsSystemAPI\\AuthenticationService\\obj\\",
       "projectStyle": "PackageReference",
