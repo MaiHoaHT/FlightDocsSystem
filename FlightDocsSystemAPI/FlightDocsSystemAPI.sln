@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlightDocsSystemAPI", "Flig
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserService", "AuthenticationService\UserService.csproj", "{EC0EF2A0-1CBE-4B7E-BC61-0EED3D757D05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightService", "FlightService\FlightService.csproj", "{06A092C3-A9E9-4BC3-8AFD-A0065FB73DAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentsService", "DocumentsService\DocumentsService.csproj", "{602102D1-4B2A-4A3E-9B73-69BA0377055C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{EC0EF2A0-1CBE-4B7E-BC61-0EED3D757D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC0EF2A0-1CBE-4B7E-BC61-0EED3D757D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC0EF2A0-1CBE-4B7E-BC61-0EED3D757D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06A092C3-A9E9-4BC3-8AFD-A0065FB73DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06A092C3-A9E9-4BC3-8AFD-A0065FB73DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06A092C3-A9E9-4BC3-8AFD-A0065FB73DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06A092C3-A9E9-4BC3-8AFD-A0065FB73DAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{602102D1-4B2A-4A3E-9B73-69BA0377055C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{602102D1-4B2A-4A3E-9B73-69BA0377055C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{602102D1-4B2A-4A3E-9B73-69BA0377055C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{602102D1-4B2A-4A3E-9B73-69BA0377055C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

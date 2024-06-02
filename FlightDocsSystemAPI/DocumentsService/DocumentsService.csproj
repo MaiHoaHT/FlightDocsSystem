@@ -7,12 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.6" />
+    <PackageReference Include="Microsoft.Exchange.WebServices" Version="2.2.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\DocumentsService\DocumentsService.csproj" />
-    <ProjectReference Include="..\FlightService\FlightService.csproj" />
   </ItemGroup>
 
 </Project>
